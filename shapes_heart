@@ -1,4 +1,5 @@
 # Simple heart
+# Script to draw a simple heart shape
 
 # Blank plot
 plot.new()
